@@ -36,7 +36,6 @@
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 ## Estatísticas
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ewkekw&bg_color=0A0A0A&border_color=a4bd00&title_color=ff0066&text_color=FFF)
   <img height=281 src="https://github-readme-stats.vercel.app/api?username=ewkekw&include_all_commits=true&bg_color=0A0A0A&border_color=a4bd00&show_icons=true&icon_color=FF0066&title_color=a4bd00&text_color=FFF" />
 </a>
 
