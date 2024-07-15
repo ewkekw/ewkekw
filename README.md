@@ -37,7 +37,6 @@
 
 ## Estatísticas
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ewkekw&bg_color=0A0A0A&border_color=a4bd00&title_color=ff0066&text_color=FFF)
-[![GitHub Streak](https://streak-stats.demolab.com?user=ewkekw&card_height=284&locale=pt_BR&background=0A0A0A&border=A4BD00&stroke=A4BD00&sideLabels=FFF&ring=FF0066&fire=FFF&currStreakNum=FB8C00&sideNums=EBEBEB&currStreakLabel=FB8C00)](https://git.io/streak-stats)
   <img height=281 src="https://github-readme-stats.vercel.app/api?username=ewkekw&include_all_commits=true&bg_color=0A0A0A&border_color=a4bd00&show_icons=true&icon_color=FF0066&title_color=a4bd00&text_color=FFF" />
 </a>
 
